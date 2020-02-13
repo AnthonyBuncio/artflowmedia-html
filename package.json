@@ -1,0 +1,22 @@
+{
+  "name": "artflowmedia",
+  "version": "1.0.0",
+  "description": "Production Company",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyBuncio/artflowmedia-html.git"
+  },
+  "author": "Anthony Buncio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnthonyBuncio/artflowmedia-html/issues"
+  },
+  "homepage": "https://github.com/AnthonyBuncio/artflowmedia-html#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
